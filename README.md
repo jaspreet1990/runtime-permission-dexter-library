@@ -5,7 +5,7 @@ This repository is for getting runtime permission with Dexter library . By Using
 By Using Dexter Library in Android, We can get the Permission via few lines of code .
 With Dexter Library in Android , User can get Single Runtime permission or Multiple Runtime Permission.
 
-Full Tutorial on Dexter Library in Android you can reach to : http://stacklearning.blogspot.in/
+Full Tutorial on Dexter Library in Android you can reach to : http://stacklearning.blogspot.in/2018/02/android-runtime-permissions-with-dexter.html
 
 2 Step Process to use Dexter Library in Android .
 
@@ -78,4 +78,4 @@ Multiple Permission Code :
                     }
                 }).check();
 
-Full Tutorial on Dexter Library in Android you can reach to : http://stacklearning.blogspot.in/
+Full Tutorial on Dexter Library in Android  you can reach to : http://stacklearning.blogspot.in/2018/02/android-runtime-permissions-with-dexter.html
